@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "203528363790",
+    "project_id": "aplikasi-baju-8e9b1",
+    "storage_bucket": "aplikasi-baju-8e9b1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203528363790:android:2612ff94689922b20b815f",
+        "android_client_info": {
+          "package_name": "com.kelompok3.aplikasibaju"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc24SxdS-JH01YW_qvgOWVK7aQ1XmK2M0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
